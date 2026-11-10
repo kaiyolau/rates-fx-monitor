@@ -37,6 +37,7 @@ Only real incidents from building this repo are listed.
 | 4 | The rule-based summary said "rose 1 bps". | Reading the pipeline output. | Singular "bp" for 1. |
 | 5 | The "Last updated" formatter combined `dateStyle`/`timeStyle` with `timeZoneName`, which `Intl` rejects, so the page crashed on render. | The Vitest render test failed with `TypeError: Invalid option`. | Listed the date and time fields explicitly. |
 | 6 | Yield-curve chart: uneven y-axis ticks (4.1%, 3.7%, 3.2%), legend sorted alphabetically instead of Today / 1 month / 1 year, and dashed lines drawing dashed outlines on the dots. | Screenshot review in a browser. | Rounded axis domain, explicit legend order, solid dots. |
+| 7 | The page requested `data.json` only after the JavaScript bundle had loaded, so visitors saw "Loading…" first. | The first screenshot of the deployed site showed only "Loading…"; timing showed `data.json` arriving about 0.6 s after navigation. | Preload `data.json` in `index.html` so it downloads in parallel with the script. |
 
 ## Known limits
 

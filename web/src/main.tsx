@@ -10,7 +10,8 @@ function App() {
 
   useEffect(() => {
     // Same-origin static file written by the pipeline; no external API calls.
-    fetch("/data.json", { cache: "no-cache" })
+    // Preloaded in index.html so it downloads in parallel with this script.
+    fetch("/data.json")
       .then((r) => (r.ok ? r.json() : Promise.reject(r.status)))
       .then(setData)
       .catch(() => setError(true));

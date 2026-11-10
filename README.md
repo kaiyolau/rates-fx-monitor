@@ -5,7 +5,7 @@ Canada's public [Valet API](https://www.bankofcanada.ca/valet/docs). It shows th
 2Y and 10Y Government of Canada yields, USD/CAD, a yield curve, the 10Y minus 2Y spread, a
 plain-language summary and the results of data-quality checks.
 
-**Live demo:** LIVE_URL_PLACEHOLDER
+**Live demo:** https://rates-fx-monitor.vercel.app
 
 Unofficial demo using Bank of Canada public data. Not a Bank of Canada product.
 
