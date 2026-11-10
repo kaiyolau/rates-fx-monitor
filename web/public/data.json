@@ -1,0 +1,1260 @@
+{
+ "generated_at": "2026-11-10T16:49:11+00:00",
+ "as_of": "2026-11-10",
+ "source": {
+  "name": "Bank of Canada Valet API",
+  "url": "https://www.bankofcanada.ca/valet",
+  "terms_url": "https://www.bankofcanada.ca/terms/"
+ },
+ "cards": [
+  {
+   "series": "V39079",
+   "latest_date": "2026-11-09",
+   "latest_value": 2.5,
+   "prev_date": "2026-11-06",
+   "change_1d": 0.0,
+   "change_1m": 0.25,
+   "change_1y": 0.25,
+   "pct_change_1d": 0.0,
+   "pct_change_1m": 11.1111,
+   "pct_change_1y": 11.1111,
+   "label": "Policy interest rate",
+   "kind": "rate"
+  },
+  {
+   "series": "BD.CDN.2YR.DQ.YLD",
+   "latest_date": "2026-11-09",
+   "latest_value": 3.13,
+   "prev_date": "2026-11-06",
+   "change_1d": 0.01,
+   "change_1m": -0.05,
+   "change_1y": 0.69,
+   "pct_change_1d": 0.3205,
+   "pct_change_1m": -1.5723,
+   "pct_change_1y": 28.2787,
+   "label": "2Y GoC yield",
+   "kind": "rate"
+  },
+  {
+   "series": "BD.CDN.10YR.DQ.YLD",
+   "latest_date": "2026-11-09",
+   "latest_value": 3.63,
+   "prev_date": "2026-11-06",
+   "change_1d": -0.02,
+   "change_1m": -0.23,
+   "change_1y": 0.46,
+   "pct_change_1d": -0.5479,
+   "pct_change_1m": -5.9585,
+   "pct_change_1y": 14.511,
+   "label": "10Y GoC yield",
+   "kind": "rate"
+  },
+  {
+   "series": "FXUSDCAD",
+   "latest_date": "2026-11-09",
+   "latest_value": 1.4123,
+   "prev_date": "2026-11-06",
+   "change_1d": 0.001,
+   "change_1m": -0.0148,
+   "change_1y": 0.006,
+   "pct_change_1d": 0.0709,
+   "pct_change_1m": -1.0371,
+   "pct_change_1y": 0.4267,
+   "label": "USD/CAD",
+   "kind": "fx"
+  }
+ ],
+ "metrics": [
+  {
+   "series": "AVG.INTWO",
+   "latest_date": "2026-11-09",
+   "latest_value": 2.52,
+   "prev_date": "2026-11-06",
+   "change_1d": 0.0,
+   "change_1m": 0.24,
+   "change_1y": 0.25,
+   "pct_change_1d": 0.0,
+   "pct_change_1m": 10.5263,
+   "pct_change_1y": 11.0132,
+   "label": "CORRA",
+   "kind": "rate"
+  },
+  {
+   "series": "BD.CDN.10YR.DQ.YLD",
+   "latest_date": "2026-11-09",
+   "latest_value": 3.63,
+   "prev_date": "2026-11-06",
+   "change_1d": -0.02,
+   "change_1m": -0.23,
+   "change_1y": 0.46,
+   "pct_change_1d": -0.5479,
+   "pct_change_1m": -5.9585,
+   "pct_change_1y": 14.511,
+   "label": "10Y GoC yield",
+   "kind": "rate"
+  },
+  {
+   "series": "BD.CDN.2YR.DQ.YLD",
+   "latest_date": "2026-11-09",
+   "latest_value": 3.13,
+   "prev_date": "2026-11-06",
+   "change_1d": 0.01,
+   "change_1m": -0.05,
+   "change_1y": 0.69,
+   "pct_change_1d": 0.3205,
+   "pct_change_1m": -1.5723,
+   "pct_change_1y": 28.2787,
+   "label": "2Y GoC yield",
+   "kind": "rate"
+  },
+  {
+   "series": "BD.CDN.5YR.DQ.YLD",
+   "latest_date": "2026-11-09",
+   "latest_value": 3.35,
+   "prev_date": "2026-11-06",
+   "change_1d": -0.01,
+   "change_1m": -0.19,
+   "change_1y": 0.61,
+   "pct_change_1d": -0.2976,
+   "pct_change_1m": -5.3672,
+   "pct_change_1y": 22.2628,
+   "label": "5Y GoC yield",
+   "kind": "rate"
+  },
+  {
+   "series": "FXEURCAD",
+   "latest_date": "2026-11-09",
+   "latest_value": 1.5823,
+   "prev_date": "2026-11-06",
+   "change_1d": 0.0091,
+   "change_1m": -0.0155,
+   "change_1y": -0.0452,
+   "pct_change_1d": 0.5784,
+   "pct_change_1m": -0.9701,
+   "pct_change_1y": -2.7773,
+   "label": "EUR/CAD",
+   "kind": "fx"
+  },
+  {
+   "series": "FXGBPCAD",
+   "latest_date": "2026-11-09",
+   "latest_value": 1.8954,
+   "prev_date": "2026-11-06",
+   "change_1d": 0.0097,
+   "change_1m": 0.0075,
+   "change_1y": 0.0452,
+   "pct_change_1d": 0.5144,
+   "pct_change_1m": 0.3973,
+   "pct_change_1y": 2.443,
+   "label": "GBP/CAD",
+   "kind": "fx"
+  },
+  {
+   "series": "FXUSDCAD",
+   "latest_date": "2026-11-09",
+   "latest_value": 1.4123,
+   "prev_date": "2026-11-06",
+   "change_1d": 0.001,
+   "change_1m": -0.0148,
+   "change_1y": 0.006,
+   "pct_change_1d": 0.0709,
+   "pct_change_1m": -1.0371,
+   "pct_change_1y": 0.4267,
+   "label": "USD/CAD",
+   "kind": "fx"
+  },
+  {
+   "series": "SPREAD_10Y_2Y",
+   "latest_date": "2026-11-09",
+   "latest_value": 0.5,
+   "prev_date": "2026-11-06",
+   "change_1d": -0.03,
+   "change_1m": -0.18,
+   "change_1y": -0.23,
+   "pct_change_1d": -5.6604,
+   "pct_change_1m": -26.4706,
+   "pct_change_1y": -31.5068,
+   "label": "10Y minus 2Y spread",
+   "kind": "rate"
+  },
+  {
+   "series": "V39079",
+   "latest_date": "2026-11-09",
+   "latest_value": 2.5,
+   "prev_date": "2026-11-06",
+   "change_1d": 0.0,
+   "change_1m": 0.25,
+   "change_1y": 0.25,
+   "pct_change_1d": 0.0,
+   "pct_change_1m": 11.1111,
+   "pct_change_1y": 11.1111,
+   "label": "Policy interest rate",
+   "kind": "rate"
+  }
+ ],
+ "yield_curve": [
+  {
+   "tenor": "2Y",
+   "tenor_years": 2,
+   "today_date": "2026-11-09",
+   "today": 3.13,
+   "month_ago_date": "2026-10-09",
+   "month_ago": 3.18,
+   "year_ago_date": "2025-11-07",
+   "year_ago": 2.44
+  },
+  {
+   "tenor": "5Y",
+   "tenor_years": 5,
+   "today_date": "2026-11-09",
+   "today": 3.35,
+   "month_ago_date": "2026-10-09",
+   "month_ago": 3.54,
+   "year_ago_date": "2025-11-07",
+   "year_ago": 2.74
+  },
+  {
+   "tenor": "10Y",
+   "tenor_years": 10,
+   "today_date": "2026-11-09",
+   "today": 3.63,
+   "month_ago_date": "2026-10-09",
+   "month_ago": 3.86,
+   "year_ago_date": "2025-11-07",
+   "year_ago": 3.17
+  }
+ ],
+ "spread_history": [
+  {
+   "date": "2025-11-10",
+   "spread": 0.72
+  },
+  {
+   "date": "2025-11-12",
+   "spread": 0.69
+  },
+  {
+   "date": "2025-11-13",
+   "spread": 0.71
+  },
+  {
+   "date": "2025-11-14",
+   "spread": 0.74
+  },
+  {
+   "date": "2025-11-17",
+   "spread": 0.74
+  },
+  {
+   "date": "2025-11-18",
+   "spread": 0.76
+  },
+  {
+   "date": "2025-11-19",
+   "spread": 0.76
+  },
+  {
+   "date": "2025-11-20",
+   "spread": 0.75
+  },
+  {
+   "date": "2025-11-21",
+   "spread": 0.76
+  },
+  {
+   "date": "2025-11-24",
+   "spread": 0.75
+  },
+  {
+   "date": "2025-11-25",
+   "spread": 0.75
+  },
+  {
+   "date": "2025-11-26",
+   "spread": 0.73
+  },
+  {
+   "date": "2025-11-27",
+   "spread": 0.72
+  },
+  {
+   "date": "2025-11-28",
+   "spread": 0.73
+  },
+  {
+   "date": "2025-12-01",
+   "spread": 0.76
+  },
+  {
+   "date": "2025-12-02",
+   "spread": 0.78
+  },
+  {
+   "date": "2025-12-03",
+   "spread": 0.79
+  },
+  {
+   "date": "2025-12-04",
+   "spread": 0.8
+  },
+  {
+   "date": "2025-12-05",
+   "spread": 0.78
+  },
+  {
+   "date": "2025-12-08",
+   "spread": 0.78
+  },
+  {
+   "date": "2025-12-09",
+   "spread": 0.77
+  },
+  {
+   "date": "2025-12-10",
+   "spread": 0.79
+  },
+  {
+   "date": "2025-12-11",
+   "spread": 0.8
+  },
+  {
+   "date": "2025-12-12",
+   "spread": 0.82
+  },
+  {
+   "date": "2025-12-15",
+   "spread": 0.83
+  },
+  {
+   "date": "2025-12-16",
+   "spread": 0.82
+  },
+  {
+   "date": "2025-12-17",
+   "spread": 0.82
+  },
+  {
+   "date": "2025-12-18",
+   "spread": 0.81
+  },
+  {
+   "date": "2025-12-19",
+   "spread": 0.86
+  },
+  {
+   "date": "2025-12-22",
+   "spread": 0.86
+  },
+  {
+   "date": "2025-12-23",
+   "spread": 0.85
+  },
+  {
+   "date": "2025-12-24",
+   "spread": 0.83
+  },
+  {
+   "date": "2025-12-29",
+   "spread": 0.83
+  },
+  {
+   "date": "2025-12-30",
+   "spread": 0.83
+  },
+  {
+   "date": "2025-12-31",
+   "spread": 0.84
+  },
+  {
+   "date": "2026-01-02",
+   "spread": 0.86
+  },
+  {
+   "date": "2026-01-05",
+   "spread": 0.85
+  },
+  {
+   "date": "2026-01-06",
+   "spread": 0.84
+  },
+  {
+   "date": "2026-01-07",
+   "spread": 0.83
+  },
+  {
+   "date": "2026-01-08",
+   "spread": 0.83
+  },
+  {
+   "date": "2026-01-09",
+   "spread": 0.83
+  },
+  {
+   "date": "2026-01-12",
+   "spread": 0.84
+  },
+  {
+   "date": "2026-01-13",
+   "spread": 0.86
+  },
+  {
+   "date": "2026-01-14",
+   "spread": 0.83
+  },
+  {
+   "date": "2026-01-15",
+   "spread": 0.82
+  },
+  {
+   "date": "2026-01-16",
+   "spread": 0.83
+  },
+  {
+   "date": "2026-01-19",
+   "spread": 0.85
+  },
+  {
+   "date": "2026-01-20",
+   "spread": 0.87
+  },
+  {
+   "date": "2026-01-21",
+   "spread": 0.86
+  },
+  {
+   "date": "2026-01-22",
+   "spread": 0.84
+  },
+  {
+   "date": "2026-01-23",
+   "spread": 0.81
+  },
+  {
+   "date": "2026-01-26",
+   "spread": 0.8
+  },
+  {
+   "date": "2026-01-27",
+   "spread": 0.83
+  },
+  {
+   "date": "2026-01-28",
+   "spread": 0.84
+  },
+  {
+   "date": "2026-01-29",
+   "spread": 0.84
+  },
+  {
+   "date": "2026-01-30",
+   "spread": 0.86
+  },
+  {
+   "date": "2026-02-02",
+   "spread": 0.86
+  },
+  {
+   "date": "2026-02-03",
+   "spread": 0.86
+  },
+  {
+   "date": "2026-02-04",
+   "spread": 0.85
+  },
+  {
+   "date": "2026-02-05",
+   "spread": 0.85
+  },
+  {
+   "date": "2026-02-06",
+   "spread": 0.85
+  },
+  {
+   "date": "2026-02-09",
+   "spread": 0.85
+  },
+  {
+   "date": "2026-02-10",
+   "spread": 0.83
+  },
+  {
+   "date": "2026-02-11",
+   "spread": 0.82
+  },
+  {
+   "date": "2026-02-12",
+   "spread": 0.79
+  },
+  {
+   "date": "2026-02-13",
+   "spread": 0.78
+  },
+  {
+   "date": "2026-02-17",
+   "spread": 0.78
+  },
+  {
+   "date": "2026-02-18",
+   "spread": 0.79
+  },
+  {
+   "date": "2026-02-19",
+   "spread": 0.78
+  },
+  {
+   "date": "2026-02-20",
+   "spread": 0.78
+  },
+  {
+   "date": "2026-02-23",
+   "spread": 0.75
+  },
+  {
+   "date": "2026-02-24",
+   "spread": 0.74
+  },
+  {
+   "date": "2026-02-25",
+   "spread": 0.74
+  },
+  {
+   "date": "2026-02-26",
+   "spread": 0.74
+  },
+  {
+   "date": "2026-02-27",
+   "spread": 0.74
+  },
+  {
+   "date": "2026-03-02",
+   "spread": 0.73
+  },
+  {
+   "date": "2026-03-03",
+   "spread": 0.73
+  },
+  {
+   "date": "2026-03-04",
+   "spread": 0.74
+  },
+  {
+   "date": "2026-03-05",
+   "spread": 0.76
+  },
+  {
+   "date": "2026-03-06",
+   "spread": 0.77
+  },
+  {
+   "date": "2026-03-09",
+   "spread": 0.73
+  },
+  {
+   "date": "2026-03-10",
+   "spread": 0.74
+  },
+  {
+   "date": "2026-03-11",
+   "spread": 0.76
+  },
+  {
+   "date": "2026-03-12",
+   "spread": 0.7
+  },
+  {
+   "date": "2026-03-13",
+   "spread": 0.72
+  },
+  {
+   "date": "2026-03-16",
+   "spread": 0.72
+  },
+  {
+   "date": "2026-03-17",
+   "spread": 0.72
+  },
+  {
+   "date": "2026-03-18",
+   "spread": 0.7
+  },
+  {
+   "date": "2026-03-19",
+   "spread": 0.6
+  },
+  {
+   "date": "2026-03-20",
+   "spread": 0.49
+  },
+  {
+   "date": "2026-03-23",
+   "spread": 0.58
+  },
+  {
+   "date": "2026-03-24",
+   "spread": 0.6
+  },
+  {
+   "date": "2026-03-25",
+   "spread": 0.58
+  },
+  {
+   "date": "2026-03-26",
+   "spread": 0.59
+  },
+  {
+   "date": "2026-03-27",
+   "spread": 0.63
+  },
+  {
+   "date": "2026-03-30",
+   "spread": 0.63
+  },
+  {
+   "date": "2026-03-31",
+   "spread": 0.64
+  },
+  {
+   "date": "2026-04-01",
+   "spread": 0.68
+  },
+  {
+   "date": "2026-04-02",
+   "spread": 0.67
+  },
+  {
+   "date": "2026-04-06",
+   "spread": 0.64
+  },
+  {
+   "date": "2026-04-07",
+   "spread": 0.63
+  },
+  {
+   "date": "2026-04-08",
+   "spread": 0.65
+  },
+  {
+   "date": "2026-04-09",
+   "spread": 0.67
+  },
+  {
+   "date": "2026-04-10",
+   "spread": 0.69
+  },
+  {
+   "date": "2026-04-13",
+   "spread": 0.67
+  },
+  {
+   "date": "2026-04-14",
+   "spread": 0.67
+  },
+  {
+   "date": "2026-04-15",
+   "spread": 0.68
+  },
+  {
+   "date": "2026-04-16",
+   "spread": 0.7
+  },
+  {
+   "date": "2026-04-17",
+   "spread": 0.67
+  },
+  {
+   "date": "2026-04-20",
+   "spread": 0.68
+  },
+  {
+   "date": "2026-04-21",
+   "spread": 0.66
+  },
+  {
+   "date": "2026-04-22",
+   "spread": 0.65
+  },
+  {
+   "date": "2026-04-23",
+   "spread": 0.63
+  },
+  {
+   "date": "2026-04-24",
+   "spread": 0.64
+  },
+  {
+   "date": "2026-04-27",
+   "spread": 0.67
+  },
+  {
+   "date": "2026-04-28",
+   "spread": 0.63
+  },
+  {
+   "date": "2026-04-29",
+   "spread": 0.57
+  },
+  {
+   "date": "2026-04-30",
+   "spread": 0.6
+  },
+  {
+   "date": "2026-05-01",
+   "spread": 0.59
+  },
+  {
+   "date": "2026-05-04",
+   "spread": 0.57
+  },
+  {
+   "date": "2026-05-05",
+   "spread": 0.59
+  },
+  {
+   "date": "2026-05-06",
+   "spread": 0.6
+  },
+  {
+   "date": "2026-05-07",
+   "spread": 0.59
+  },
+  {
+   "date": "2026-05-08",
+   "spread": 0.61
+  },
+  {
+   "date": "2026-05-11",
+   "spread": 0.61
+  },
+  {
+   "date": "2026-05-12",
+   "spread": 0.62
+  },
+  {
+   "date": "2026-05-13",
+   "spread": 0.62
+  },
+  {
+   "date": "2026-05-14",
+   "spread": 0.6
+  },
+  {
+   "date": "2026-05-15",
+   "spread": 0.63
+  },
+  {
+   "date": "2026-05-19",
+   "spread": 0.66
+  },
+  {
+   "date": "2026-05-20",
+   "spread": 0.65
+  },
+  {
+   "date": "2026-05-21",
+   "spread": 0.63
+  },
+  {
+   "date": "2026-05-22",
+   "spread": 0.61
+  },
+  {
+   "date": "2026-05-25",
+   "spread": 0.62
+  },
+  {
+   "date": "2026-05-26",
+   "spread": 0.63
+  },
+  {
+   "date": "2026-05-27",
+   "spread": 0.61
+  },
+  {
+   "date": "2026-05-28",
+   "spread": 0.6
+  },
+  {
+   "date": "2026-05-29",
+   "spread": 0.64
+  },
+  {
+   "date": "2026-06-01",
+   "spread": 0.62
+  },
+  {
+   "date": "2026-06-02",
+   "spread": 0.61
+  },
+  {
+   "date": "2026-06-03",
+   "spread": 0.62
+  },
+  {
+   "date": "2026-06-04",
+   "spread": 0.63
+  },
+  {
+   "date": "2026-06-05",
+   "spread": 0.61
+  },
+  {
+   "date": "2026-06-08",
+   "spread": 0.66
+  },
+  {
+   "date": "2026-06-09",
+   "spread": 0.64
+  },
+  {
+   "date": "2026-06-10",
+   "spread": 0.66
+  },
+  {
+   "date": "2026-06-11",
+   "spread": 0.64
+  },
+  {
+   "date": "2026-06-12",
+   "spread": 0.64
+  },
+  {
+   "date": "2026-06-15",
+   "spread": 0.65
+  },
+  {
+   "date": "2026-06-16",
+   "spread": 0.63
+  },
+  {
+   "date": "2026-06-17",
+   "spread": 0.6
+  },
+  {
+   "date": "2026-06-18",
+   "spread": 0.6
+  },
+  {
+   "date": "2026-06-19",
+   "spread": 0.61
+  },
+  {
+   "date": "2026-06-22",
+   "spread": 0.62
+  },
+  {
+   "date": "2026-06-23",
+   "spread": 0.66
+  },
+  {
+   "date": "2026-06-24",
+   "spread": 0.63
+  },
+  {
+   "date": "2026-06-25",
+   "spread": 0.64
+  },
+  {
+   "date": "2026-06-26",
+   "spread": 0.64
+  },
+  {
+   "date": "2026-06-29",
+   "spread": 0.64
+  },
+  {
+   "date": "2026-06-30",
+   "spread": 0.64
+  },
+  {
+   "date": "2026-07-02",
+   "spread": 0.69
+  },
+  {
+   "date": "2026-07-03",
+   "spread": 0.7
+  },
+  {
+   "date": "2026-07-06",
+   "spread": 0.7
+  },
+  {
+   "date": "2026-07-07",
+   "spread": 0.69
+  },
+  {
+   "date": "2026-07-08",
+   "spread": 0.71
+  },
+  {
+   "date": "2026-07-09",
+   "spread": 0.72
+  },
+  {
+   "date": "2026-07-10",
+   "spread": 0.69
+  },
+  {
+   "date": "2026-07-13",
+   "spread": 0.68
+  },
+  {
+   "date": "2026-07-14",
+   "spread": 0.71
+  },
+  {
+   "date": "2026-07-15",
+   "spread": 0.71
+  },
+  {
+   "date": "2026-07-16",
+   "spread": 0.7
+  },
+  {
+   "date": "2026-07-17",
+   "spread": 0.7
+  },
+  {
+   "date": "2026-07-20",
+   "spread": 0.73
+  },
+  {
+   "date": "2026-07-21",
+   "spread": 0.74
+  },
+  {
+   "date": "2026-07-22",
+   "spread": 0.71
+  },
+  {
+   "date": "2026-07-23",
+   "spread": 0.69
+  },
+  {
+   "date": "2026-07-24",
+   "spread": 0.7
+  },
+  {
+   "date": "2026-07-27",
+   "spread": 0.69
+  },
+  {
+   "date": "2026-07-28",
+   "spread": 0.69
+  },
+  {
+   "date": "2026-07-29",
+   "spread": 0.73
+  },
+  {
+   "date": "2026-07-30",
+   "spread": 0.74
+  },
+  {
+   "date": "2026-07-31",
+   "spread": 0.74
+  },
+  {
+   "date": "2026-08-04",
+   "spread": 0.72
+  },
+  {
+   "date": "2026-08-05",
+   "spread": 0.73
+  },
+  {
+   "date": "2026-08-06",
+   "spread": 0.69
+  },
+  {
+   "date": "2026-08-07",
+   "spread": 0.68
+  },
+  {
+   "date": "2026-08-10",
+   "spread": 0.7
+  },
+  {
+   "date": "2026-08-11",
+   "spread": 0.69
+  },
+  {
+   "date": "2026-08-12",
+   "spread": 0.71
+  },
+  {
+   "date": "2026-08-13",
+   "spread": 0.7
+  },
+  {
+   "date": "2026-08-14",
+   "spread": 0.72
+  },
+  {
+   "date": "2026-08-17",
+   "spread": 0.75
+  },
+  {
+   "date": "2026-08-18",
+   "spread": 0.74
+  },
+  {
+   "date": "2026-08-19",
+   "spread": 0.71
+  },
+  {
+   "date": "2026-08-20",
+   "spread": 0.73
+  },
+  {
+   "date": "2026-08-21",
+   "spread": 0.73
+  },
+  {
+   "date": "2026-08-24",
+   "spread": 0.72
+  },
+  {
+   "date": "2026-08-25",
+   "spread": 0.72
+  },
+  {
+   "date": "2026-08-26",
+   "spread": 0.73
+  },
+  {
+   "date": "2026-08-27",
+   "spread": 0.74
+  },
+  {
+   "date": "2026-08-28",
+   "spread": 0.72
+  },
+  {
+   "date": "2026-08-31",
+   "spread": 0.72
+  },
+  {
+   "date": "2026-09-01",
+   "spread": 0.74
+  },
+  {
+   "date": "2026-09-02",
+   "spread": 0.69
+  },
+  {
+   "date": "2026-09-03",
+   "spread": 0.69
+  },
+  {
+   "date": "2026-09-04",
+   "spread": 0.69
+  },
+  {
+   "date": "2026-09-08",
+   "spread": 0.68
+  },
+  {
+   "date": "2026-09-09",
+   "spread": 0.68
+  },
+  {
+   "date": "2026-09-10",
+   "spread": 0.63
+  },
+  {
+   "date": "2026-09-11",
+   "spread": 0.6
+  },
+  {
+   "date": "2026-09-14",
+   "spread": 0.57
+  },
+  {
+   "date": "2026-09-15",
+   "spread": 0.6
+  },
+  {
+   "date": "2026-09-16",
+   "spread": 0.57
+  },
+  {
+   "date": "2026-09-17",
+   "spread": 0.56
+  },
+  {
+   "date": "2026-09-18",
+   "spread": 0.55
+  },
+  {
+   "date": "2026-09-21",
+   "spread": 0.55
+  },
+  {
+   "date": "2026-09-22",
+   "spread": 0.58
+  },
+  {
+   "date": "2026-09-23",
+   "spread": 0.56
+  },
+  {
+   "date": "2026-09-24",
+   "spread": 0.58
+  },
+  {
+   "date": "2026-09-25",
+   "spread": 0.59
+  },
+  {
+   "date": "2026-09-28",
+   "spread": 0.59
+  },
+  {
+   "date": "2026-09-29",
+   "spread": 0.62
+  },
+  {
+   "date": "2026-10-01",
+   "spread": 0.67
+  },
+  {
+   "date": "2026-10-02",
+   "spread": 0.68
+  },
+  {
+   "date": "2026-10-05",
+   "spread": 0.7
+  },
+  {
+   "date": "2026-10-06",
+   "spread": 0.69
+  },
+  {
+   "date": "2026-10-07",
+   "spread": 0.71
+  },
+  {
+   "date": "2026-10-08",
+   "spread": 0.69
+  },
+  {
+   "date": "2026-10-09",
+   "spread": 0.68
+  },
+  {
+   "date": "2026-10-13",
+   "spread": 0.68
+  },
+  {
+   "date": "2026-10-14",
+   "spread": 0.64
+  },
+  {
+   "date": "2026-10-15",
+   "spread": 0.63
+  },
+  {
+   "date": "2026-10-16",
+   "spread": 0.63
+  },
+  {
+   "date": "2026-10-19",
+   "spread": 0.6
+  },
+  {
+   "date": "2026-10-20",
+   "spread": 0.58
+  },
+  {
+   "date": "2026-10-21",
+   "spread": 0.58
+  },
+  {
+   "date": "2026-10-22",
+   "spread": 0.56
+  },
+  {
+   "date": "2026-10-23",
+   "spread": 0.5
+  },
+  {
+   "date": "2026-10-26",
+   "spread": 0.47
+  },
+  {
+   "date": "2026-10-27",
+   "spread": 0.47
+  },
+  {
+   "date": "2026-10-28",
+   "spread": 0.46
+  },
+  {
+   "date": "2026-10-29",
+   "spread": 0.48
+  },
+  {
+   "date": "2026-10-30",
+   "spread": 0.5
+  },
+  {
+   "date": "2026-11-02",
+   "spread": 0.48
+  },
+  {
+   "date": "2026-11-03",
+   "spread": 0.51
+  },
+  {
+   "date": "2026-11-04",
+   "spread": 0.48
+  },
+  {
+   "date": "2026-11-05",
+   "spread": 0.5
+  },
+  {
+   "date": "2026-11-06",
+   "spread": 0.53
+  },
+  {
+   "date": "2026-11-09",
+   "spread": 0.5
+  }
+ ],
+ "quality_checks": [
+  {
+   "check_name": "Stale data",
+   "status": "pass",
+   "message": "All 8 series updated within 2 business days (latest: 2026-11-09)."
+  },
+  {
+   "check_name": "Missing business days",
+   "status": "pass",
+   "message": "No gaps in the last 90 days (3 weekday(s) treated as holidays)."
+  },
+  {
+   "check_name": "Outliers (large daily jumps)",
+   "status": "pass",
+   "message": "No daily move above 0.50 pp (rates) or 3% (FX) in the last 90 days."
+  },
+  {
+   "check_name": "Null values",
+   "status": "pass",
+   "message": "No empty values across 8 series."
+  },
+  {
+   "check_name": "Duplicate dates",
+   "status": "pass",
+   "message": "No series has the same date twice."
+  }
+ ],
+ "summary": {
+  "text": "On the latest trading day the 2Y Government of Canada yield rose 1 bp to 3.13% and the 10Y yield fell 2 bps to 3.63%, leaving the 10Y minus 2Y spread at 50 bps. USD/CAD rose 0.07% to 1.4123. The Bank of Canada policy rate is 2.50%, up 25 bps from a year ago.",
+  "source": "rule_based",
+  "model": null,
+  "ai_status": "not_configured",
+  "numbers_checked": 9,
+  "numbers_verified": 9
+ }
+}
