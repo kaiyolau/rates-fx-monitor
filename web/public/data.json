@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-11T02:28:35+00:00",
- "as_of": "2026-11-10",
+ "generated_at": "2026-11-12T03:33:43+00:00",
+ "as_of": "2026-11-11",
  "source": {
   "name": "Bank of Canada Valet API",
   "url": "https://www.bankofcanada.ca/valet",
@@ -9,9 +9,9 @@
  "cards": [
   {
    "series": "V39079",
-   "latest_date": "2026-11-09",
+   "latest_date": "2026-11-10",
    "latest_value": 2.5,
-   "prev_date": "2026-11-06",
+   "prev_date": "2026-11-09",
    "change_1d": 0.0,
    "change_1m": 0.25,
    "change_1y": 0.25,
@@ -179,9 +179,9 @@
   },
   {
    "series": "V39079",
-   "latest_date": "2026-11-09",
+   "latest_date": "2026-11-10",
    "latest_value": 2.5,
-   "prev_date": "2026-11-06",
+   "prev_date": "2026-11-09",
    "change_1d": 0.0,
    "change_1m": 0.25,
    "change_1y": 0.25,
